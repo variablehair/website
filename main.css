@@ -2,3 +2,8 @@ body {
 	background-color = #141452;
 	font-family = 'Crete Round', serif;
 }
+
+p {
+	color = red;
+	font-size = 80px;
+}
