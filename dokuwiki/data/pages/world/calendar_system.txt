@@ -1,0 +1,21 @@
+====== Calendar System ======
+[[world:Lyran-bel]]'s calendar system was created during the [[world:Lyran_Empire]]. It is a lunar calendar based on the orbits of [[world:syl_s_moons|the moons]], meaning that the seasons are not at consistent times from year to year. A week is 10 days and is defined by one full rotation of Imil, a month 40 days, following somewhat closely to 1 full rotation of En, and a year 800 days, marked by the resynchronization of Imil and En. A new year is the only day both Imil and En are in their new moon phases in each year. Ei has some significance in the holidays and such of the calendar system, but does not play a central role.
+
+Weeks are weeks, months are months, but years are known as umbras.
+
+===The days of the week===
+   - Miril
+   - Uril
+   - Vendril
+   - Aran
+   - Noran
+   - Talleran
+   - Zei
+   - Rei
+   - Beryei
+   - Saptanash
+
+They are named after the words in the languages preceding the Lyran Empire, which were themselves based on the moons. Saptanash is Imil's new moon, and is generally a day of rest and introspection.
+
+===The months===
+- There are 20 of them. later.

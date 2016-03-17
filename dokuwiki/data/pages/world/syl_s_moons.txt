@@ -1,0 +1,15 @@
+======= Syl's Moons =======
+There are three moons on the world of Syl: [[world:En]], [[world:Ei]], and [[world:Imil]]. These moons have significant effects on the planet's atmosphere, climate, magnetic field, and calendar.
+
+===== Properties =====
+Imil is the smallest of the moons, and also the closest. En and Ei are much larger and denser, but also lie further away. En is the next closest at about 3 times further away from Syl than Imil, and Ei is the furthest, at about 8 times the distance from Syl than Imil.
+
+Imil, En, and Ei exhibit a 1:2:5 orbital resonance.
+
+Imil completes a revolution about Syl once every 10 days, En every 39.5 days, and Ei once every 120 days. Because Imil and En make up the basis of Syl's [[world:Calendar_System]], it is important to note that their orbits are out of sync by .5 days, and so it takes 20 complete revolutions of En for their orbits to sync again.
+
+Imil appears the largest in the night sky because of its proximity, but En is almost as large. Ei appears much smaller. En is the brightest, followed by Imil. In addition, Imil's volcanic activity can be seen clearly from the surface of Syl, with bright red patches often appearing on the surface of the moon; this happens once every few weeks. 
+
+Imil and En appear yellow, while Ei has a bluish hue.
+
+Ei and En are generally very inert, and similar to the Earth's moon. Imil is extremely volcanic and tectonically active, and large volcanic eruptions happen very often and can be seen from the surface.
