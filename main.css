@@ -1,9 +1,62 @@
-body {
-	background-color = #141452;
-	font-family = 'Crete Round', serif;
+a {
+	color: #FFEEDD;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
+a:visited {
+	color: #FFEEDD;
+}
+
+body {	
+	background-color: #0a0a29;
+	color: #FFEEDD;
+	font-family: 'Crete Round', 'Comic Sans', serif;
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 22px;
+}
+
+#nav {
+	display:inline-block;
+	vertical-align: top;
+	
+	height: 400px;
+	width: 200px;
+	padding-left: 30px;
+	padding-top: 5px;
+	
+	background-color: #004466;
+	font-weight: 200;
+	letter-spacing: 2px;
 }
 
 p {
-	color = red;
-	font-size = 80px;
+
+}
+
+#textblock {
+	display:inline-block;
+	background-color: #00324A;
+	font-family: 'Antic Didone', 'Crete Round', serif;
+	font-size: 16px;
+	letter-spacing: 1px; 
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	vertical-align: top;
+	
+	height: 400px;
+	width: 600px;
+}
+
+#wrapper {
+	width: 1000px;
+	margin-top: 200px;
+	margin-left: 200px;
 }
